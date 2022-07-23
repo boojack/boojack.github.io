@@ -62,22 +62,15 @@ const AboutMe: React.FunctionComponent = () => {
         </p>
         <p className="info-item">
           E-mail:{"  "}
-          <a href="mailto:imrealleonardo@gmail.com">
+          <a href="mailto:stevenlgtm@gmail.com">
             <img src="./icons/email.svg" className="icon-img" />
-            imrealleonardo@gmail.com
+            stevenlgtm@gmail.com
           </a>
         </p>
       </div>
       <span className="slice-text">-----</span>
       <div className="section-container">
         <p className="title-text">Other sites:</p>
-        <p className="contact-item">
-          <img src="./icons/notion.svg" className="icon-img" />
-          Notion:{"  "}
-          <a target="_black" href="https://www.notion.so/Home-bdf52857b85b44a89b67a0b7fd9ec74c">
-            Justfakemoz
-          </a>
-        </p>
         <p className="contact-item">
           <img src="./icons/github.svg" className="icon-img" />
           Github:{"  "}
